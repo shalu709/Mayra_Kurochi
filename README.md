@@ -14,9 +14,3 @@ I am a B.Sc. student at **Sharda University**, Noida. I am a passionate self-lea
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </p>
-//
-### 📈 My GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Mayra_Kurochi&show_icons=true&theme=radical" alt="Shalu's Stats" />
-</p>
-//
