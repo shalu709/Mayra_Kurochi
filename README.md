@@ -1,10 +1,10 @@
 # Hi there, I'm Shalu Kushwaha! 👋
 
-I am a B.Sc. student at **Sharda University**, Noida. I am a passionate self-learner focusing on building a strong foundation in computer science.
+I am a B.Tech. student at **Sharda University**, Noida. I am a passionate self-learner focusing on building a strong foundation in computer science.
 
 - 🔭 I’m currently working on: **Mastering Data Structures and Algorithms (DSA) with C++**
 - 🌱 I’m currently learning: **Advanced CSS and C++ STL**
-- 🎓 Education: **B.Sc. at Sharda University** (Previously DAV School, Kathmandu)
+- 🎓 Education: **B.Tech. at Sharda University** (Previously DAV School, Kathmandu)
 - ⚡ Fun fact: I love solving logic puzzles and building web layouts from scratch.
 
 ### 🛠️ Languages and Tools
